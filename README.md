@@ -1,7 +1,7 @@
-# wordpress-deployment
+# Fully elastic WordPress deployment on AWS using Terraform
 # AWS DevOps Infrastructure with Terraform
 
-This project is a DevOps infrastructure as code (IaC) implementation using AWS and Terraform. It aims to create a scalable and modular AWS architecture for deploying applications with ease. The infrastructure includes the following AWS resources:
+This project is a DevOps infrastructure as code (IaC) implementation using AWS and Terraform. It aims to create a scalable and modular AWS architecture for deploying WordPress applications with ease. The infrastructure includes the following AWS resources:
 
 - **VPC (Virtual Private Cloud)**: A logically isolated section of the AWS Cloud where you can launch AWS resources.
 
